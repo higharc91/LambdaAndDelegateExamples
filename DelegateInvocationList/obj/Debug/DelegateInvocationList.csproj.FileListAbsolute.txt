@@ -1,0 +1,6 @@
+c:\users\jarred\documents\visual studio 2015\Projects\DelegateExample1\DelegateInvocationList\bin\Debug\DelegateInvocationList.exe.config
+c:\users\jarred\documents\visual studio 2015\Projects\DelegateExample1\DelegateInvocationList\bin\Debug\DelegateInvocationList.exe
+c:\users\jarred\documents\visual studio 2015\Projects\DelegateExample1\DelegateInvocationList\bin\Debug\DelegateInvocationList.pdb
+c:\users\jarred\documents\visual studio 2015\Projects\DelegateExample1\DelegateInvocationList\obj\Debug\DelegateInvocationList.csprojResolveAssemblyReference.cache
+c:\users\jarred\documents\visual studio 2015\Projects\DelegateExample1\DelegateInvocationList\obj\Debug\DelegateInvocationList.exe
+c:\users\jarred\documents\visual studio 2015\Projects\DelegateExample1\DelegateInvocationList\obj\Debug\DelegateInvocationList.pdb

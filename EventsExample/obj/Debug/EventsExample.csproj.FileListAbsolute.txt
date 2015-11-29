@@ -1,0 +1,6 @@
+C:\Users\jarred\documents\visual studio 2015\Projects\DelegateExample1\EventsExample\bin\Debug\EventsExample.exe.config
+C:\Users\jarred\documents\visual studio 2015\Projects\DelegateExample1\EventsExample\obj\Debug\EventsExample.csprojResolveAssemblyReference.cache
+C:\Users\jarred\documents\visual studio 2015\Projects\DelegateExample1\EventsExample\bin\Debug\EventsExample.exe
+C:\Users\jarred\documents\visual studio 2015\Projects\DelegateExample1\EventsExample\bin\Debug\EventsExample.pdb
+C:\Users\jarred\documents\visual studio 2015\Projects\DelegateExample1\EventsExample\obj\Debug\EventsExample.exe
+C:\Users\jarred\documents\visual studio 2015\Projects\DelegateExample1\EventsExample\obj\Debug\EventsExample.pdb

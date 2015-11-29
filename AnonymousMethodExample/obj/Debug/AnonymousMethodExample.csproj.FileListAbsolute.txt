@@ -1,0 +1,6 @@
+C:\Users\jarred\documents\visual studio 2015\Projects\DelegateExample1\AnonymousMethodExample\bin\Debug\AnonymousMethodExample.exe.config
+C:\Users\jarred\documents\visual studio 2015\Projects\DelegateExample1\AnonymousMethodExample\bin\Debug\AnonymousMethodExample.exe
+C:\Users\jarred\documents\visual studio 2015\Projects\DelegateExample1\AnonymousMethodExample\bin\Debug\AnonymousMethodExample.pdb
+C:\Users\jarred\documents\visual studio 2015\Projects\DelegateExample1\AnonymousMethodExample\obj\Debug\AnonymousMethodExample.csprojResolveAssemblyReference.cache
+C:\Users\jarred\documents\visual studio 2015\Projects\DelegateExample1\AnonymousMethodExample\obj\Debug\AnonymousMethodExample.exe
+C:\Users\jarred\documents\visual studio 2015\Projects\DelegateExample1\AnonymousMethodExample\obj\Debug\AnonymousMethodExample.pdb
